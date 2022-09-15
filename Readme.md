@@ -2,6 +2,7 @@
 
 Dragon Wars fan site. Dragon Wars is a fantasy role-playing video game.
 
+
 It was developed by Rebecca Heineman and published by Interplay Entertainment and distributed by Activision in 1989.
 
 The game was developed as a fusion of the Bard's Tale engine and Wasteland's design philosophy. 
